@@ -5,7 +5,7 @@
 * Uses the A* algorithm to path find a solution to a maze
 
 ### PA2
-* Implementation of minimax search tree utlizing alpha beta pruning to calculate fight against an adversary agent
+* Implementation of minimax search tree utlizing alpha beta pruning to calculate a fight strategy against an adversary agent
 
 ### PA3
 * Forward state space planner to solve resource collection scenarios
