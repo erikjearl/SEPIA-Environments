@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6ecf5c1-cd73-4e43-b48b-5839ecc5f860" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PA1/data/maze_16x16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PA1/data/maze_16x16_config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PA1/data/maze_16x16h.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PA1/data/maze_16x16h_config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PA1/data/maze_16x16h_dynamic.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PA1/data/maze_16x16h_dynamic_config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PA1/data/maze_16x16n.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PA1/data/maze_16x16n_config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PA1/data/maze_8x8_config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PA1/src/edu/cwru/sepia/agent/AstarAgent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PA1/src/edu/cwru/sepia/agent/EnemyBlockerAgent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Sepia.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PA0.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PA0.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/CombatAgentConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/data/CombatAgentConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/FirstAgentConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/data/FirstAgentConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ManualControlConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/data/ManualControlConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ResourceCollectionConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/data/ResourceCollectionConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ResourceCollectionConfig_Smallv2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/data/ResourceCollectionConfig_Smallv2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ResourceCollectionv2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/data/ResourceCollectionv2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/saves/test1/ep0/agent0.agt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saves/test1/ep0/agent1.agt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saves/test1/ep0/history.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saves/test1/ep0/initstate.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PA1/data/maze_8x8.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="24i4LrrRGz6ECjaEQKj39xGrWm7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Andrew Kuttichira\Documents\GitHub\CSDS391_S22_5\PA0\lib" />
+      <recent name="C:\Users\Andrew Kuttichira\Documents\GitHub\CSDS391_S22_5\PA0\data" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.cwru.sepia.Main2" />
+      <module name="PA0" />
+      <option name="PROGRAM_PARAMETERS" value="data/ResourceCollectionConfig.xml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.cwru.sepia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6ecf5c1-cd73-4e43-b48b-5839ecc5f860" name="Changes" comment="" />
+      <created>1644100021204</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644100021204</updated>
+      <workItem from="1644100022621" duration="321000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
