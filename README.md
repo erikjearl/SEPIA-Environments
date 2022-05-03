@@ -4,7 +4,7 @@
 ### PA1
 * Uses the A* algorithm to path find a solution to a maze
 
-###PA2
+### PA2
 * Implementation of minimax search tree utlizing alpha beta pruning to calculate fight against an adversary agent
 
 ### PA3
